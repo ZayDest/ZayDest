@@ -1,7 +1,3 @@
-# Agrex.AI – Data Science Portfolio and Projects
-
-Welcome to **Agrex.AI**, a showcase of advanced data‑science projects by **Abdul Zaid**.  In addition to the original transistor‑detection code in this repository, this page provides an overview of Abdul’s professional experience, core competencies, technical skills, and selected projects.  Together, they highlight a track record of delivering AI‑driven solutions and scalable data platforms across diverse industries.
-
 ## About Abdul Zaid
 
 Abdul is a results‑driven data scientist with more than 2.5 years of experience architecting enterprise‑grade data platforms and designing AI solutions.  He is currently a **Data Scientist at Softsensor AI** where he leads cross‑functional teams to deliver AI‑powered analytics and decision automation solutions【621367434764805†L1-L31】.  His expertise spans predictive analytics, machine learning, generative AI, big‑data engineering, and business intelligence.  Abdul is recognized for his mentorship, having conducted over 20 workshops and seminars nationwide to foster AI skill development【621367434764805†L16-L23】.
